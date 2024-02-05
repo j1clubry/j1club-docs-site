@@ -31,13 +31,20 @@ paginate: true
 
 Regular Events:
 
-1. Volleyball
-2. Badminton
+1. Volleyball (Every Sunday 10 - 12 EEST )
+   Location:
+   Lintuvaaran koulu
+   Lintuparvenpuisto 5b,
+   02660 Espoo
+2. Badminton (Every Sunday 11 - 13 EEST, 2 courts )
+   Location:
+   Laajalahden koulu
+   Elisenvaarankuja 9,
+   02140 Espoo
+3. More events can be added based on request/demand
 
 Tournament Events:
-
-Coming Soon:
-J1 Women's BadmintonTournament 2023
+Coming Soon: J1 Women's BadmintonTournament 2023
 
 ---
 
@@ -53,9 +60,9 @@ Membership Fees: 20 Euro
 
 More Volunteers needed for
 
-1. Site creation/publishing
-2. Events Management
-3. Training
+1. Events Management
+2. Training
+3. Technical Activities
 
 ---
 
