@@ -1,29 +1,2 @@
 site_name: J1 Club
-theme: 
-  name: material
-  features: 
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - toc.integrate
-    - search.suggest
-    - search.highlight
-    - content.action.edit
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-  language: en
-  palette: 
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
-
 copyright: "Copyright &copy; 2022 J1ClubRy"
