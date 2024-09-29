@@ -1,4 +1,4 @@
-# J1 Tournaments - Basic Framework
+# J1 Tournaments
 
 This document provides a basic framework for conducting tournaments in J1 Club Ry. This is a living document that needs to be kept updated with new information, changes or evolving situations.
 
