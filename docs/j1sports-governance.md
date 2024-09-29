@@ -83,4 +83,4 @@ All members/participants are required to follow the basic etiquettes and any spe
 
 Chairperson or other executives of the committee can send a formal request to the Board, for planning and conducting a tournament. Board members (all) will work with the committee executives, analysing the interest shown, location availability, time and duration of the tournament, tournament fees (as applicable). Board members will have a exclusive meeting to discuss on the approval for conducting tournament. Once a majority (no voting, but just oral/written approval) is secured in favour of conducting the tournament, the information is then communicated to the sports committee executives.
 
-Please visit the [J1 Tournaments Framework]() for detailed information.
+Please visit the [J1 Tournaments Framework](https://j1clubry.github.io/j1club-docs-site/j1-tournaments/) for detailed information.
