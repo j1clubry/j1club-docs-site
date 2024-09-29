@@ -4,9 +4,7 @@
 
 This document provides a comprehensive overview of the governance model adopted in J1 Club Ry for the organization and conduct of sports events and tournaments.
 
-
 ## Organization Structure
-
 
 ![J1 Club Ry Org Structure](./org-structure.drawio.png)
 
@@ -14,7 +12,7 @@ This document provides a comprehensive overview of the governance model adopted 
 
 Sports Events are sports activities that are regularly (recurrent) conducted every weekend. Mainly conducted for only the members of the club. Others can be invited as guests with approval from the individual sports committee
 
-For event planning and booking, please check #Planning for a events 
+For event planning and booking, please check #Planning for a events
 
 ## Tournaments
 
@@ -47,12 +45,13 @@ NOTE
 2. Cross-Committee Membership: Members and Executives are permitted to serve on multiple committees, potentially in varying roles.
 3. Rule Evaluation: The composition and structure of committees are subject to periodic review, contingent upon fluctuating levels of interest and participation in each sport.
 4. Inclusivity of Sports: The governance model encompasses both indoor and outdoor sports activities.
-5. Committee Voting Threshold: A minimum of eight (8) members must cast votes to establish a sports committee.
+5. Committee Threshold: A minimum of three (3) members needed to establish a sports committee.
 6. Committee Creation Timing: Sports committees shall be formed either during the Annual General Meeting (AGM) or throughout the Monthly Board Meetings as needed.
 
 Note
 
-    Committee will be created in Suomisports (as groups) and the committee executives will be granted appropriate roles. It is mandatory to have the Board members as 'Admin' in all the committee. 
+    Committee will be created in Suomisports (as groups) and the committee executives will be granted appropriate roles. It is mandatory to have the Board members as 'Admin' in all the committee.
+    Committee can also be existing in WhatsApp or other preferred communication channels.
 
 #### Roles and Responsibilities
 
@@ -68,12 +67,11 @@ NOTE
 
 ### Planning for an event
 
-Chairperson can request for a booking for a recurring event, when there is enough interest for a particular sports. Chairperson can contact all the J1 members to find the interested members and can also regularly send notifications about the events. Upon having committment from the members, chairperson submits the request to the 'J1 Club Ry Board' for a recurring event booking in appropriate location. 
+Chairperson can request for a booking for a recurring event, when there is enough interest for a particular sports. Chairperson can contact all the J1 members to find the interested members and can also regularly send notifications about the events. Upon having committment from the members, chairperson submits the request to the 'J1 Club Ry Board' for a recurring event booking in appropriate location.
 
-Once the board approves the request and a booking is secured, the committee executives can then plan for the events. 
+Once the board approves the request and a booking is secured, the committee executives can then plan for the events.
 
 #### Fees
-
 
 #### Responsibilities
 
@@ -83,15 +81,6 @@ All members/participants are required to follow the basic etiquettes and any spe
 
 ### Planning for a Tournament
 
-Chairperson or other executives of the committee can send a formal request to the Board, for planning and conducting a tournament. Board members (all) will work with the committee executives, analysing the interest shown, location availability, time and duration of the tournament, tournament fees (as applicable). Board members will have a exclusive meeting to discuss and vote on the approval for conducting tournament. Once a majority is secured in favour of conducting the tournament, the information is then communicated to the sports committee executives. 
+Chairperson or other executives of the committee can send a formal request to the Board, for planning and conducting a tournament. Board members (all) will work with the committee executives, analysing the interest shown, location availability, time and duration of the tournament, tournament fees (as applicable). Board members will have a exclusive meeting to discuss on the approval for conducting tournament. Once a majority (no voting, but just oral/written approval) is secured in favour of conducting the tournament, the information is then communicated to the sports committee executives.
 
-
-#### Fees
-
-
-#### Responsibilities
-
-Board members and other executives of the sports committee have full responsibility of the securing the keys to the location, sports equipments, and all the facilities included in the premises. It is also mandatory for atleast three board members and any one of the sports committee executives to be present throughout the tournament duration in the premises. 
-
-
-All members/participants are required to follow the basic etiquettes and any special rules set by the board and the sports committee. Depending upon the ease-of-use, the executives of the committee can decide to use either Suomisports or WhatsApp or Signal for the communication amoung the group.
+Please visit the [J1 Tournaments Framework]() for detailed information.
